@@ -3,7 +3,7 @@
 Plugin Name: en_GB localisation
 Description: Fixes those little things in WordPress like misplaced vowels and over-use of the letter Z.
 Author: Adam Harley
-Version: 1.0.1
+Version: 1.0.2
 */
 
 function gb_gettext( $text ) {
@@ -52,5 +52,6 @@ function gb_gettext( $text ) {
 }
 
 add_filter( 'gettext', 'gb_gettext' );
+add_filter( 'gettext_with_context', 'gb_gettext' );
 add_filter( 'ngettext', 'gb_gettext' );
 add_filter( 'ngettext_with_context', 'gb_gettext' );
