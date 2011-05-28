@@ -46,3 +46,6 @@ While I'm aware of this, I loathe [Oxford spelling](http://en.wikipedia.org/wiki
 * First version
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+Adds missing filter
