@@ -3,6 +3,8 @@
 Plugin Name: en_GB localisation
 Description: Fixes those little things in WordPress like misplaced vowels and over-use of the letter Z.
 Author: Adam Harley
+Author URI: http://adamharley.co.uk
+Plugin URI: http://adamharley.co.uk/wordpress-plugins/british-english-translation/
 Version: 1.0.2
 */
 
