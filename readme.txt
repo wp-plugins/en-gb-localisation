@@ -1,5 +1,6 @@
 === en_GB (British English) Translation ===
-Contributors: Kawauso
+Contributors: kawauso
+Donate link: http://adamharley.co.uk/buy-me-a-coffee/
 Tags: en_GB, translation, localisation, british english
 Requires at least: 3.0
 Tested up to: 3.2
