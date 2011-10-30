@@ -3,8 +3,8 @@ Contributors: kawauso
 Donate link: http://adamharley.co.uk/buy-me-a-coffee/
 Tags: en_GB, translation, localisation, british english
 Requires at least: 3.0
-Tested up to: 3.2
-Stable tag: 1.0.2
+Tested up to: 3.3
+Stable tag: 1.0.2.1
 
 Fixes those little things in WordPress like misplaced vowels and over-use of the letter Z.
 
@@ -35,6 +35,9 @@ Since en_GB is quite similar to en_US, it would be rather unnecessary to use ful
 While I'm aware of this, I loathe [Oxford spelling](http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#-ise.2C_-ize_.28-isation.2C_-ization.29) with a passion.
 
 == Changelog ==
+
+= 1.0.2.1 =
+* Added lowercase 'trash'
 
 = 1.0.2 =
 * Added missing 'gettext_with_context' filter
