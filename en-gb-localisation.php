@@ -5,7 +5,7 @@ Description: Fixes those little things in WordPress like misplaced vowels and ov
 Author: Adam Harley
 Author URI: http://adamharley.co.uk
 Plugin URI: http://adamharley.co.uk/wordpress-plugins/british-english-translation/
-Version: 1.0.2
+Version: 1.0.3
 */
 
 function gb_gettext( $text ) {
@@ -17,6 +17,7 @@ function gb_gettext( $text ) {
 				=> 'You are about to install WordPress %s <strong>in English (US).</strong> There is a chance this may expose you briefly to Americanisms. Stay calm and carry on.',
 
 			'Trash' => 'Bin',
+			'trash' => 'bin',
 
 			'Color' => 'Colour',
 			'color' => 'colour',
