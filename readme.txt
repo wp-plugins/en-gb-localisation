@@ -51,5 +51,8 @@ While I'm aware of this, I loathe [Oxford spelling](http://en.wikipedia.org/wiki
 
 == Upgrade Notice ==
 
+= 1.0.2.1 =
+Adds lowercase 'trash'
+
 = 1.0.2 =
 Adds missing filter
